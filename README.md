@@ -1,4 +1,3 @@
-README
 This repository contains a collection of Jupyter notebooks designed for implementing and evaluating a teacher-student distillation framework to annotate RECIST-based clinical outcomes. The notebooks are organized in a sequential manner and cover all major steps, from dataset creation to model training and evaluation. Below is a description of each notebook and its purpose.
 
 1. Data Preparation
